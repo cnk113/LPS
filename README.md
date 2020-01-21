@@ -1,2 +1,2 @@
 # LPS
-Locally Purified States
+Implementation of Locally Purified States using CuPy
